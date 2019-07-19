@@ -1,8 +1,5 @@
 
 // Auto generated index for searching.
-w["read"]="1*0*4l";
-w["refactor"]="1*0*29";
-w["refactorings."]="1*0*28";
 w["regist"]="0*16*2r$38$3a$4j";
 w["register."]="0*0*4i";
 w["registr"]="0*2*3k$48$4l";
@@ -13,6 +10,8 @@ w["requirements:"]="0*0*n";
 w["resolut"]="0*0*1c";
 w["resolution:"]="0*0*1b";
 w["rich"]="1*0*h";
+w["ross"]="0*0*7";
+w["ross-platform"]="0*0*6";
 w["run"]="0*9*1k$1q";
 w["same"]="0*0*4t";
 w["select"]="0*7*1u$22$3g";

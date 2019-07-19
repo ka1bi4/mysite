@@ -1,6 +1,5 @@
 
 // Auto generated index for searching.
-w["free"]="0*0*17,1*0*2u";
 w["ftp"]="1*1*3p$3v";
 w["function"]="1*0*i";
 w["general"]="1*0*6f";
@@ -22,8 +21,7 @@ w["ide"]="0*1*9$2m,1*0*6";
 w["includ"]="1*0*23";
 w["inform"]="0*0*4s,1*0*6j";
 w["input"]="0*0*46";
-w["insta"]="0*10*2";
-w["instal"]="0*37*0$1f$1h$1l$2d$2i,1*0*4j";
+w["instal"]="0*47*0$2$1f$1h$1l$2d$2i,1*0*4j";
 w["integr"]="1*1*a$3c";
 w["integrations:"]="1*0*3b";
 w["intellig"]="1*0*1q";
@@ -41,7 +39,6 @@ w["licens"]="0*0*31";
 w["light"]="0*0*29";
 w["link"]="0*0*3r";
 w["linux"]="0*0*f";
-w["ll"]="0*10*3";
 w["lookup"]="1*0*27";
 w["maco"]="0*0*e";
 w["mail"]="0*1*4e$50";
@@ -86,4 +83,7 @@ w["profession"]="0*0*v";
 w["project"]="1*2*2a$2f$6m";
 w["provid"]="0*0*a,1*0*6i";
 w["quick"]="1*2*2k$37$4m";
+w["read"]="1*0*4l";
+w["refactor"]="1*0*29";
+w["refactorings."]="1*0*28";
 
