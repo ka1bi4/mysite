@@ -99,8 +99,8 @@ h1.title, h2.title{
   background-image: url("../img/product-title.png"); 
   display: inline-block;
   background-size: contain;
-  width: 68px;
-  height: 124px;
+  width: 70px;
+  height: 100px;
 }
 
 #header #productTitle h1 {
