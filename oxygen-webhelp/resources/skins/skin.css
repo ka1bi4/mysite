@@ -96,7 +96,11 @@ h1.title, h2.title{
 }
 
 #header #customLogo {
-	display: none;
+  background-image: url("../img/product-title.png"); 
+  display: inline-block;
+  background-size: contain;
+  width: 68px;
+  height: 124px;
 }
 
 #header #productTitle h1 {
@@ -362,6 +366,7 @@ h1.title, h2.title{
   padding-right: 0px;
   padding-bottom: 0px;
   padding-left: 5px;
+  width: 1000px;
 }
 p.title {
   background-color: transparent;
